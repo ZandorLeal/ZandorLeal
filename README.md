@@ -1,16 +1,28 @@
-## Hi there 👋
+## Zandor S. Leal
 
-<!--
-**ZandorLeal/ZandorLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer building fintech systems with Python.
 
-Here are some ideas to get you started:
+Currently working on credit card domain systems (DDD) and exploring LLM orchestration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+**Daily use:** Python · Django · Flask · FastAPI · PostgreSQL · MongoDB · RabbitMQ · Redis · Docker
+
+**Observability:** Grafana · Instana
+
+**Exploring:** LLM Orchestration · AI Agents · Datadog
+
+---
+
+### Work
+
+- Backend systems for banking PJ ecosystem — invoices, payment slips, acquiring (Fiserv), credit cards
+- Designed and implemented a data acquisition pipeline with active fetching and throttling
+- Domain-Driven Design applied to financial products
+- Legacy Django monolith maintenance and evolution
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zandorsabino/)
