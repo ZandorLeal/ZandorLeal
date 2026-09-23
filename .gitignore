@@ -1,0 +1,8 @@
+# Só o README.md é público. Todo o resto deste diretório é local e fica fora do versionamento.
+
+# Ignora tudo...
+*
+
+# ...exceto o necessário:
+!README.md
+!.gitignore
