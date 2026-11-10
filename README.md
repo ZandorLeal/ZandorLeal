@@ -8,20 +8,27 @@ Currently working on credit card domain systems (DDD) and exploring LLM orchestr
 
 ### Stack
 
-**Daily use:** Python · Django · Flask · FastAPI · PostgreSQL · MongoDB · RabbitMQ · Redis · Docker
+**Daily use:** Python · Django · FastAPI · Flask · PostgreSQL · MongoDB · RabbitMQ · Redis · gRPC · Docker · Kubernetes · GCP
 
-**Observability:** Grafana · Instana
+**Observability:** Grafana · Datadog
 
-**Exploring:** LLM Orchestration · AI Agents · Datadog
+**Exploring:** LLM Orchestration · AI Agents · MCP
 
 ---
 
 ### Work
 
-- Backend systems for banking PJ ecosystem — invoices, payment slips, acquiring (Fiserv), credit cards
-- Designed and implemented a data acquisition pipeline with active fetching and throttling
+- Backend systems for banking PJ ecosystem — invoices, payment slips, acquiring, credit cards
+- Designed and built, from scratch, a distributed data acquisition pipeline with active fetching and throttling
 - Domain-Driven Design applied to financial products
-- Legacy Django monolith maintenance and evolution
+- Legacy Django monolith maintenance and evolution into microservices
+- Regulated environments: PCI-DSS, LGPD, Open Finance
+
+---
+
+### Education
+
+Systems Analysis and Development (CST) at Descomplica — in progress
 
 ---
 
